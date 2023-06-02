@@ -1,3 +1,3 @@
 # Sobre o trabalho
 
-Aplicação de operações de rotação, translação e escala em figuras geométricas.
+Desenvolvimento do traçado de retas otimizado em todos os octantes de um plano cartesiano.
